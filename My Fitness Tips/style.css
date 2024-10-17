@@ -262,10 +262,7 @@ ul {
     width: 40%;
     height: 40%;
     background-size: contain;
-    /*Your Code goes here*/
-    background-image: url()https://cdn-icons-png.flaticon.com/512/27/27223.png);
-    background-repeat: no-repeat 
-    /*----*/
+    background-repeat: no-repeat;
     top: 50%;
     left: 50%;
     opacity: 0;
