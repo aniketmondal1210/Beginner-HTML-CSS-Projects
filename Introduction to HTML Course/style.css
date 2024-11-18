@@ -1,0 +1,73 @@
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+
+.heading{
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #fff;
+  text-decoration: none;
+  padding-left: 30px;
+}
+
+
+.profilepic{
+  display: flex;
+  justify-content: right;
+height: 50px;
+}
+
+
+.navlist{
+  list-style-type: none;
+  display: flex; /* Added to create a flex container */
+  justify-content: space-between;
+  
+}
+.htmlimg{
+  margin-left: 25%;
+width: 600px;
+height: 450px;
+}
+
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+
+
+.schedule{
+  display: flex;
+  justify-content: space-between;
+  font-size: large;
+  margin-top: 20px;
+
+}
+table, th, td {
+  border: 1px solid;
+}
+
+
+/* update your code below this comment */
+.h2{
+    font-size: 20px;
+    margin-bottom:10px;
+}
+
+.p{
+    margin-bottom: 10px;
+}
+
+.footer{
+    padding-left: 40%;
+    color: #fff;
+    background-color: #333;
+}
